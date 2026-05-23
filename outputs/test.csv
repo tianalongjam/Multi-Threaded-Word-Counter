@@ -1,0 +1,6 @@
+word,count,file1.txt.gz,file2.txt.gz,test1.txt.gz,test2.txt.gz
+another,1,0,1,0,0
+file,2,1,1,0,0
+hello,5,2,1,2,0
+test,3,1,1,0,1
+world,5,1,1,1,2
