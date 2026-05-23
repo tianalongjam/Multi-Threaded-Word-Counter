@@ -29,7 +29,7 @@ The project compares AI-generated implementations from multiple models and bench
 ---
 ## Thread Benchmarking
 
-![Thread Benchmarking](./outputs/threads.png)
+![Thread Benchmarking](/outputs/threads.png)
 ---
 
 ## Repository Structure
