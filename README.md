@@ -27,6 +27,10 @@ The project compares AI-generated implementations from multiple models and bench
   - CSV vs Parquet vs Arrow
 
 ---
+## Thread Benchmarking
+
+![Thread Benchmarking](./outputs/threads.png)
+---
 
 ## Repository Structure
 
