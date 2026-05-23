@@ -25,11 +25,6 @@ The project compares AI-generated implementations from multiple models and bench
   - Python without GIL
 - Format benchmarking:
   - CSV vs Parquet vs Arrow
-
----
-## Thread Benchmarking
-
-![Thread Benchmarking](/outputs/threads.png)
 ---
 
 ## Repository Structure
